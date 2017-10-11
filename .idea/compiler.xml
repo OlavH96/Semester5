@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="KompSys_Øving_4_main" target="1.8" />
+      <module name="KompSys_Øving_4_test" target="1.8" />
+      <module name="Semester5_main" target="1.8" />
+      <module name="Semester5_test" target="1.8" />
+      <module name="Sikkerhet_Øving_10_main" target="1.8" />
+      <module name="Sikkerhet_Øving_10_test" target="1.8" />
+      <module name="Sikkerhet_Øving_12_main" target="1.8" />
+      <module name="Sikkerhet_Øving_12_test" target="1.8" />
+      <module name="Sikkerhet_Øving_8_main" target="1.8" />
+      <module name="Sikkerhet_Øving_8_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

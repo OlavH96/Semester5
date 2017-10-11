@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="https://unpkg.com/vue"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <div id="container">
+
+    {{message}} <br>
+
+    Username: <input type="text" v-model=username><br>
+    Password: <input type="password" v-model=password><br>
+
+  <button v-on:click='create'>Create New</button> <br>
+  <button v-on:click='submit'>Log In!</button> <br>
+  <button v-on:click='testToken'>Test Token</button> <br>
+
+  </div>
+
+
+  <!-- Compiled and minified JavaScript -->
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <link rel="stylesheet" href="index.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js" integrity="sha256-xoJklEMhY9dP0n54rQEaE9VeRnBEHNSfyfHlKkr9KNk=" crossorigin="anonymous"></script>  <script src="index.js"></script>
+
+</body>
+</html>

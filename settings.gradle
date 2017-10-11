@@ -1,0 +1,6 @@
+rootProject.name = 'Semester5'
+include 'Sikkerhet_Øving_8'
+include 'Sikkerhet_Øving_10'
+include 'KompSys_Øving_4'
+include 'Sikkerhet_Øving_12'
+

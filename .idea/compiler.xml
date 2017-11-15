@@ -10,6 +10,16 @@
       <module name="Sikkerhet_Øving_10_test" target="1.8" />
       <module name="Sikkerhet_Øving_12_main" target="1.8" />
       <module name="Sikkerhet_Øving_12_test" target="1.8" />
+      <module name="Sikkerhet_Øving_14_main" target="1.8" />
+      <module name="Sikkerhet_Øving_14_test" target="1.8" />
+      <module name="Sikkerhet_Øving_16_main" target="1.8" />
+      <module name="Sikkerhet_Øving_16_test" target="1.8" />
+      <module name="Sikkerhet_Øving_18_main" target="1.8" />
+      <module name="Sikkerhet_Øving_18_test" target="1.8" />
+      <module name="Sikkerhet_Øving_20_main" target="1.8" />
+      <module name="Sikkerhet_Øving_20_test" target="1.8" />
+      <module name="Sikkerhet_Øving_22_main" target="1.8" />
+      <module name="Sikkerhet_Øving_22_test" target="1.8" />
       <module name="Sikkerhet_Øving_8_main" target="1.8" />
       <module name="Sikkerhet_Øving_8_test" target="1.8" />
     </bytecodeTargetLevel>
